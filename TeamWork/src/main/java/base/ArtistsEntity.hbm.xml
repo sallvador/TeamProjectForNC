@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="base.ArtistsEntity" table="Artists" schema="public" catalog="postgres">
+        <id name="artistId">
+            <column name="artist_id" sql-type="integer"/>
+        </id>
+        <property name="information">
+            <column name="information" sql-type="text" not-null="true"/>
+        </property>
+        <property name="picture">
+            <column name="picture" sql-type="bytea"/>
+        </property>
+    </class>
+</hibernate-mapping>
