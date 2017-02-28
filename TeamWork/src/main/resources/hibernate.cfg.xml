@@ -12,23 +12,23 @@
         <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
         <property name="hibernate.current_session_context_class">thread</property>
         <mapping class="base.ArtistsEntity"/>
-        <mapping resource="base/ArtistsEntity.hbm.xml"/>
-        <mapping resource="base/EventsEntity.hbm.xml"/>
+        <mapping resource="ArtistsEntity.hbm.xml"/>
+        <mapping resource="EventsEntity.hbm.xml"/>
         <mapping class="base.EventsEntity"/>
-        <mapping resource="base/GenresEntity.hbm.xml"/>
+        <mapping resource="GenresEntity.hbm.xml"/>
         <mapping class="base.GenresEntity"/>
         <mapping class="base.HistoryEntity"/>
-        <mapping resource="base/HistoryEntity.hbm.xml"/>
-        <mapping resource="base/PlacesEntity.hbm.xml"/>
+        <mapping resource="HistoryEntity.hbm.xml"/>
+        <mapping resource="PlacesEntity.hbm.xml"/>
         <mapping class="base.PlacesEntity"/>
         <mapping class="base.PricesEntity"/>
-        <mapping resource="base/PricesEntity.hbm.xml"/>
+        <mapping resource="PricesEntity.hbm.xml"/>
         <mapping class="base.SelectionsEntity"/>
-        <mapping resource="base/SelectionsEntity.hbm.xml"/>
+        <mapping resource="SelectionsEntity.hbm.xml"/>
         <mapping class="base.StylesEntity"/>
-        <mapping resource="base/StylesEntity.hbm.xml"/>
+        <mapping resource="StylesEntity.hbm.xml"/>
         <mapping class="base.UsersEntity"/>
-        <mapping resource="base/UsersEntity.hbm.xml"/>
+        <mapping resource="UsersEntity.hbm.xml"/>
 
 
     </session-factory>
