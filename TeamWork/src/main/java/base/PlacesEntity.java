@@ -80,7 +80,7 @@ public class PlacesEntity {
 
         return true;
     }
-
+///////ывывывывывы
     @Override
     public int hashCode() {
         int result = placeId;
