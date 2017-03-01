@@ -15,10 +15,25 @@
       <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/resources/HistoryEntity.hbm.xml" timestamp="1488307804114">
         <mark key="[" line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/resources/ArtistsEntity.hbm.xml" timestamp="1488381591430">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/ArtistsEntity.java" timestamp="1488381567801">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/pom.xml" timestamp="1488381657032">
+        <mark key="[" line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/UsersEntity.java" timestamp="1488304709229">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/PricesEntity.java" timestamp="1488381578329">
+        <mark key="[" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/HistoryEntity.hbm.xml" timestamp="1488306814139">
         <mark key="[" line="10" column="20" />
@@ -36,7 +51,10 @@
         <mark key="[" line="82" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/ArtistsEntity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/ArtistsEntity.java" />
+    </jumps>
     <registers>
       <register name="1" type="8">
         <text />
