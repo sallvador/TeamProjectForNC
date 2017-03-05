@@ -5,6 +5,7 @@
 <hibernate-mapping>
 
     <class name="base.StylesEntity" table="Styles" schema="public" catalog="postgres">
+        <id name="id"/>
         <property name="priority">
             <column name="priority" sql-type="numeric" precision="-1"/>
         </property>

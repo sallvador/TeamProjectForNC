@@ -1,9 +1,6 @@
 package base;
 
-import javax.persistence.Basic;
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Table;
+import javax.persistence.*;
 import java.math.BigInteger;
 
 /**
@@ -79,5 +76,16 @@ public class StylesEntity {
         result = 31 * result + unitId;
         result = 31 * result + genreId;
         return result;
+    }
+
+    private String id;
+
+    @Id
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
     }
 }
