@@ -14,6 +14,15 @@ public class EventsEntity {
     private int artistId;
     private int placeId;
     private String info;
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     @Id
     @Column(name = "event_id", nullable = false)

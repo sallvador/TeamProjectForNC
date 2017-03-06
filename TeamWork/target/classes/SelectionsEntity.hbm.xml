@@ -4,15 +4,12 @@
     "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 <hibernate-mapping>
 
-    <class name="base.SelectionsEntity" table="Sections" schema="public" catalog="postgres">
+    <class name="base.SelectionsEntity" table="Selections" schema="public" catalog="postgres">
         <id name="selectionId">
-            <column name="section_id" sql-type="integer"/>
+            <column name="selection_id" sql-type="integer"/>
         </id>
         <property name="placeId">
             <column name="place_id" sql-type="integer"/>
-        </property>
-        <property name="name">
-            <column name="name" sql-type="varchar"/>
         </property>
     </class>
 </hibernate-mapping>

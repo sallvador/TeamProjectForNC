@@ -3,8 +3,10 @@
     <properties maven-id="org.postgresql:postgresql:9.2-1003-jdbc3" />
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/9.2-1003-jdbc3/postgresql-9.2-1003-jdbc3.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/org/postgresql/postgresql/9.2-1003-jdbc3" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/postgresql/postgresql/9.2-1003-jdbc3" recursive="false" />
   </library>
 </component>

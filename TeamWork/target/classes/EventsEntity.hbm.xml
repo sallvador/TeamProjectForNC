@@ -20,8 +20,5 @@
         <property name="info">
             <column name="info" sql-type="text"/>
         </property>
-        <property name="name">
-            <column name="name" sql-type="varchar"/>
-        </property>
     </class>
 </hibernate-mapping>

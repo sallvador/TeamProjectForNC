@@ -12,7 +12,17 @@ public class ArtistsEntity {
     private int artistId;
     private String information;
     private byte[] picture;
-//////////////////////////////////////hthghghhjhjhjhjghjgj
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    //////////////////////////////////////hthghghhjhjhjhjghjgj
     @Id
     @Column(name = "artist_id", nullable = false)
     public int getArtistId() {

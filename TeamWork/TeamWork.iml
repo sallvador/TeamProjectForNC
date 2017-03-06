@@ -4,11 +4,21 @@
     <facet type="hibernate" name="Hibernate">
       <configuration>
         <datasource-map>
-          <unit-entry name="hibernate.cfg.xml" value="2f7d8ccc-e942-4460-971e-c3d59d09c44b" />
+          <unit-entry name="hibernate.cfg.xml" value="cd4ad980-2b97-456e-b73e-5f8059d64fe1" />
         </datasource-map>
         <naming-strategy-map />
         <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/resources/factory.xml" />
         <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/resources/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="Hibernate" />
+        <datasource-mapping>
+          <factory-entry name="NewPersistenceUnit" />
+        </datasource-mapping>
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/java/META-INF/persistence.xml" />
       </configuration>
     </facet>
   </component>
@@ -35,7 +45,7 @@
     <orderEntry type="library" name="Maven: commons-collections:commons-collections:2.1.1" level="project" />
     <orderEntry type="library" name="Maven: org.hibernate:hibernate-annotations:3.2.1.ga" level="project" />
     <orderEntry type="library" name="Maven: org.hibernate:hibernate-entitymanager:3.2.1.ga" level="project" />
-    <orderEntry type="library" name="Maven: jboss:javassist:3.3.ga" level="project" />
+    <orderEntry type="library" name="Maven: javassist:javassist:3.3.GA" level="project" />
     <orderEntry type="library" name="Maven: jboss:jboss-archive-browsing:5.0.0alpha-200607201-119" level="project" />
     <orderEntry type="library" name="Maven: javax.persistence:persistence-api:1.0" level="project" />
     <orderEntry type="library" name="Maven: javax.transaction:jta:1.1" level="project" />

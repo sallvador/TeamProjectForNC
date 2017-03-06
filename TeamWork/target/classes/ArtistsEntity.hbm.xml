@@ -14,8 +14,5 @@
         <property name="picture">
             <column name="picture" sql-type="bytea"/>
         </property>
-        <property name="name">
-            <column name="name" sql-type="varchar"/>
-        </property>
     </class>
 </hibernate-mapping>
