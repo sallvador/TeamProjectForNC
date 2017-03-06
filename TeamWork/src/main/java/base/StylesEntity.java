@@ -1,10 +1,13 @@
 package base;
 
-import javax.persistence.*;
+import javax.persistence.Basic;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Table;
 import java.math.BigInteger;
 
 /**
- * Created by Роман on 27.02.2017.
+ * Created by Роман on 06.03.2017.
  */
 @Entity
 @Table(name = "Styles", schema = "public", catalog = "postgres")
@@ -76,16 +79,5 @@ public class StylesEntity {
         result = 31 * result + unitId;
         result = 31 * result + genreId;
         return result;
-    }
-
-    private String id;
-
-    @Id
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
     }
 }

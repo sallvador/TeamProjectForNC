@@ -2,15 +2,16 @@ package intdao;
 
 import base.ArtistsEntity;
 import base.UsersEntity;
+import org.hibernate.Session;
 
 /**
  * Created by Роман on 05.03.2017.
  */
 public interface UsersInt {
 
-    public void save(UsersEntity usersEntity);
-    public void delete(UsersEntity usersEntity);
-    public void update(UsersEntity usersEntity);
-    public UsersEntity getEntityById(long id);
+    public void save(UsersEntity usersEntity,  Session session);
+    public void delete(UsersEntity usersEntity, Session session);
+    public void update(UsersEntity usersEntity, Session session);
+    public UsersEntity getEntityById(long id, Session session);
 
 }

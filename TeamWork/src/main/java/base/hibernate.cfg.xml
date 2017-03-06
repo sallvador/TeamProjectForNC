@@ -12,9 +12,6 @@
         <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
         <property name="hibernate.current_session_context_class">thread</property>
 
-        <property name="hibernate.connection.username">postgres</property>
-        <property name="hibernate.connection.password">Stalin36413169</property>
-
         <mapping class="base.ArtistsEntity"/>
         <mapping resource="base/ArtistsEntity.hbm.xml"/>
         <mapping resource="base/EventsEntity.hbm.xml"/>
@@ -33,6 +30,8 @@
         <mapping resource="base/StylesEntity.hbm.xml"/>
         <mapping class="base.UsersEntity"/>
         <mapping resource="base/UsersEntity.hbm.xml"/>
+        <mapping class="base.SectionsEntity"/>
+        <mapping resource="base/SectionsEntity.hbm.xml"/>
 
 
     </session-factory>
