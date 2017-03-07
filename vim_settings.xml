@@ -3,177 +3,72 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/ArtistsDAO.java" timestamp="1488830616823">
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/PlacesEntity.java" timestamp="1488306717632">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/HistoryDAO.java" timestamp="1488831325052">
-        <mark key="[" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/target/.gitignore" timestamp="1488908838697">
-        <mark key="[" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/PlacesDAO.java" timestamp="1488831504364">
-        <mark key="[" line="10" column="23" />
+      <file name="/Dummy.txt" timestamp="1488308255898">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/resources/HistoryEntity.hbm.xml" timestamp="1488307804114">
         <mark key="[" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/StylesInt.java" timestamp="1488829508025">
-        <mark key="[" line="10" column="46" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/GenresDAO.java" timestamp="1488831163449">
-        <mark key="'" line="15" column="33" />
-        <mark key="[" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/StylesDAO.java" timestamp="1488832444564">
-        <mark key="[" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/ArtistsInt.java" timestamp="1488829451478">
-        <mark key="[" line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/PricesInt.java" timestamp="1488829636539">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/PlacesInt.java" timestamp="1488829700751">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/hibernate.cfg.xml" timestamp="1488734992951">
-        <mark key="[" line="18" column="35" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/UsersInt.java" timestamp="1488829547628">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="47" />
-        <mark key="." line="11" column="47" />
-        <mark key="^" line="11" column="47" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/EventsDAO.java" timestamp="1488830633336">
-        <mark key="[" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/PricesEntity.java" timestamp="1488381578329">
-        <mark key="[" line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/pro/.gitignore" timestamp="1488406843828">
-        <mark key="[" line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/.gitignore" timestamp="1488909695079">
-        <mark key="[" line="0" column="45" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/pro/src/main/java/intdao/BookingInt.java" timestamp="1488736567746">
-        <mark key="[" line="13" column="47" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/SelectionsEntity.hbm.xml" timestamp="1488828793375">
-        <mark key="[" line="6" column="57" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/HistoryInt.java" timestamp="1488829719525">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="48" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/GenresInt.java" timestamp="1488829748416">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-      </file>
-      <file name="/dummy.sql" timestamp="1488737438705">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/target/.gitignore" timestamp="1488406853035">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/PricesEntity.java" timestamp="1488306681245">
-        <mark key="[" line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/PlacesEntity.java" timestamp="1488307742556">
-        <mark key="[" line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/UsersDAO.java" timestamp="1488834198716">
-        <mark key="[" line="10" column="22" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/EventsInt.java" timestamp="1488829796104">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1488742101216">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/SelectionsDAO.java" timestamp="1488827672809">
-        <mark key="[" line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/SectionsDAO.java" timestamp="1488832280005">
-        <mark key="[" line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/PricesDAO.java" timestamp="1488832062481">
-        <mark key="[" line="10" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/resources/ArtistsEntity.hbm.xml" timestamp="1488381591430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/SelectionsInt.java" timestamp="1488827639725">
-        <mark key="[" line="7" column="31" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/EventDAO.java" timestamp="1488735935703">
-        <mark key="[" line="5" column="18" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/pro/src/main/java/wrap/BookingDAO.java" timestamp="1488829216004">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/resources/hibernate.cfg.xml" timestamp="1488734811658">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="31" />
-        <mark key="." line="18" column="31" />
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/ArtistsEntity.java" timestamp="1488381567801">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/pom.xml" timestamp="1488381657032">
         <mark key="[" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/pro/src/main/resources/hibernate.cfg.xml" timestamp="1488734736939">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/UsersEntity.java" timestamp="1488304709229">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/DAO/GenersDAO.java" timestamp="1488735468259">
-        <mark key="[" line="5" column="17" />
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/PricesEntity.java" timestamp="1488381578329">
+        <mark key="[" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pro/.gitignore" timestamp="1488391603415">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/HistoryEntity.hbm.xml" timestamp="1488306814139">
         <mark key="[" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/SectionsInt.java" timestamp="1488829585074">
-        <mark key="[" line="10" column="25" />
-      </file>
-      <file name="/fragment.java" timestamp="1488829374349">
+      <file name="/dummy.sql" timestamp="1488308388218">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/SelectionsEntity.java" timestamp="1488828974920">
-        <mark key="[" line="8" column="20" />
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/target/.gitignore" timestamp="1488391903999">
+        <mark key="[" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/PricesEntity.java" timestamp="1488306681245">
+        <mark key="[" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/resources/maping.xml" timestamp="1488306944096">
         <mark key="[" line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/PlacesEntity.java" timestamp="1488307742556">
+        <mark key="[" line="82" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/ArtistsEntity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/ArtistsEntity.java" />
-      <jump line="7" column="21" filename="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/HistoryInt.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/intdao/HistoryInt.java" />
-      <jump line="11" column="21" filename="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/GenresDAO.java" />
-      <jump line="14" column="33" filename="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/dao/GenresDAO.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNhdmUoQXJ0aXN0c0VudGl0eSApOwo=</text>
-      </register>
-      <register name="&quot;" type="4">
+      <register name="1" type="8">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="&quot;" type="8">
         <text />
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
