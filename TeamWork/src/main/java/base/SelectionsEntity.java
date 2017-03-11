@@ -10,6 +10,15 @@ import javax.persistence.*;
 public class SelectionsEntity {
     private int selectionId;
     private int placeId;
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     @Id
     @Column(name = "selection_id", nullable = false)
