@@ -2,70 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="513a5e8a-55e6-4315-9ea5-61255e7f08fd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../IntelliLang.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/b8f9a8f0-a20a-47d3-80de-9cc21d683023.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_3_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/base/SelectionsEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/SelectionsEntity.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/factory.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mapping.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../_windows/git.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../_windows/keymap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../_windows/laf.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../_windows/path.macros.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../databaseDrivers.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../debugger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../diff.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../gradle.run.settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ide.general.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ignore.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../inspection/Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../mavenVersion.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../scala.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../vim_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web-browsers.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/base/ArtistsEntity.class" afterPath="$PROJECT_DIR$/target/classes/base/ArtistsEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/base/EventsEntity.class" afterPath="$PROJECT_DIR$/target/classes/base/EventsEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/base/SelectionsEntity.class" afterPath="$PROJECT_DIR$/target/classes/base/SelectionsEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/2f7d8ccc-e942-4460-971e-c3d59d09c44b.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/2f7d8ccc-e942-4460-971e-c3d59d09c44b.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/SearchEngine/SearchInterface.java" afterPath="$PROJECT_DIR$/src/main/java/SearchEngine/SearchInterface.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/SearchEngine/SearchRealisation.java" afterPath="$PROJECT_DIR$/src/main/java/SearchEngine/SearchRealisation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/base/ArtistsEntity.java" afterPath="$PROJECT_DIR$/src/main/java/base/ArtistsEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/base/EventsEntity.java" afterPath="$PROJECT_DIR$/src/main/java/base/EventsEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/base/GenresEntity.java" afterPath="$PROJECT_DIR$/src/main/java/base/GenresEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/base/HistoryEntity.java" afterPath="$PROJECT_DIR$/src/main/java/base/HistoryEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/base/PlacesEntity.java" afterPath="$PROJECT_DIR$/src/main/java/base/PlacesEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/base/PricesEntity.java" afterPath="$PROJECT_DIR$/src/main/java/base/PricesEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/base/SectionsEntity.java" afterPath="$PROJECT_DIR$/src/main/java/base/SectionsEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/base/StylesEntity.java" afterPath="$PROJECT_DIR$/src/main/java/base/StylesEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/base/UsersEntity.java" afterPath="$PROJECT_DIR$/src/main/java/base/UsersEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dao/ArtistsDAO.java" afterPath="$PROJECT_DIR$/src/main/java/dao/ArtistsDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dao/EventsDAO.java" afterPath="$PROJECT_DIR$/src/main/java/dao/EventsDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dao/GenresDAO.java" afterPath="$PROJECT_DIR$/src/main/java/dao/GenresDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dao/HistoryDAO.java" afterPath="$PROJECT_DIR$/src/main/java/dao/HistoryDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dao/PlacesDAO.java" afterPath="$PROJECT_DIR$/src/main/java/dao/PlacesDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dao/PricesDAO.java" afterPath="$PROJECT_DIR$/src/main/java/dao/PricesDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dao/SectionsDAO.java" afterPath="$PROJECT_DIR$/src/main/java/dao/SectionsDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dao/StylesDAO.java" afterPath="$PROJECT_DIR$/src/main/java/dao/StylesDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dao/UsersDAO.java" afterPath="$PROJECT_DIR$/src/main/java/dao/UsersDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/intdao/ArtistsInt.java" afterPath="$PROJECT_DIR$/src/main/java/intdao/ArtistsInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/intdao/EventsInt.java" afterPath="$PROJECT_DIR$/src/main/java/intdao/EventsInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/intdao/GenresInt.java" afterPath="$PROJECT_DIR$/src/main/java/intdao/GenresInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/intdao/HistoryInt.java" afterPath="$PROJECT_DIR$/src/main/java/intdao/HistoryInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/intdao/PlacesInt.java" afterPath="$PROJECT_DIR$/src/main/java/intdao/PlacesInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/intdao/PricesInt.java" afterPath="$PROJECT_DIR$/src/main/java/intdao/PricesInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/intdao/SectionsInt.java" afterPath="$PROJECT_DIR$/src/main/java/intdao/SectionsInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/intdao/StylesInt.java" afterPath="$PROJECT_DIR$/src/main/java/intdao/StylesInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/intdao/UsersInt.java" afterPath="$PROJECT_DIR$/src/main/java/intdao/UsersInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/SectionsEntity.hbm.xml" afterPath="$PROJECT_DIR$/src/main/resources/SectionsEntity.hbm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ArtistsEntity.hbm.xml" afterPath="$PROJECT_DIR$/target/classes/ArtistsEntity.hbm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/EventsEntity.hbm.xml" afterPath="$PROJECT_DIR$/target/classes/EventsEntity.hbm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" />
     </list>
     <ignored path="TeamWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,12 +27,6 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -102,61 +34,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HiberSF.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/HiberSF.java">
+      <file leaf-file-name="SearchInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SearchEngine/SearchInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="198">
+              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="false" />
-                <element signature="e#723#724#0" expanded="false" />
-                <element signature="e#761#762#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArtistsEntity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/base/ArtistsEntity.java">
+      <file leaf-file-name="SearchRealisation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SearchEngine/SearchRealisation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="76">
+              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
               <folding>
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2052#2053#0" expanded="false" />
+                <element signature="e#2079#2080#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SectionsEntity.hbm.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/SectionsEntity.hbm.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SectionsEntity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/base/SectionsEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/main/main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -221,7 +120,6 @@
         <option value="$PROJECT_DIR$/src/main/java/dao/UsersDAO.java" />
         <option value="$PROJECT_DIR$/target/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/SearchEngine/SearchRealisation.java" />
         <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/ArtistsEntity.hbm.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/GenresEntity.hbm.xml" />
@@ -236,6 +134,8 @@
         <option value="$PROJECT_DIR$/src/main/java/base/ArtistsEntity.java" />
         <option value="$PROJECT_DIR$/src/main/resources/SectionsEntity.hbm.xml" />
         <option value="$PROJECT_DIR$/src/main/java/base/SectionsEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SearchEngine/SearchInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SearchEngine/SearchRealisation.java" />
       </list>
     </option>
   </component>
@@ -415,7 +315,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
+              <option name="myItemId" value="SearchEngine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -426,7 +326,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ArtemiyPerov.forNetCracker/LibProject" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -905,7 +805,7 @@
       <workItem from="1489350957239" duration="1131000" />
       <workItem from="1489431195635" duration="4742000" />
       <workItem from="1489501999162" duration="5000" />
-      <workItem from="1489502129506" duration="804000" />
+      <workItem from="1489502129506" duration="3213000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1488231215040</created>
@@ -939,7 +839,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35997000" />
+    <option name="totallyTimeSpent" value="38406000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -968,7 +868,7 @@
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22991544" sideWeight="0.23820224" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23015021" sideWeight="0.7617977" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18830472" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18830472" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1184,13 +1084,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SearchEngine/SearchInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1201,29 +1094,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/base/hibernate.cfg.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/base/SectionsEntity.hbm.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/SearchEngine/SearchRealisation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/maping.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/GenresEntity.hbm.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/PricesEntity.hbm.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/HiberSF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#723#724#0" expanded="false" />
-            <element signature="e#761#762#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/UsersEntity.hbm.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/base/StylesEntity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1260,14 +1134,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1312,6 +1178,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/HiberSF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/base/ArtistsEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -1338,6 +1212,36 @@
         <state relative-caret-position="132">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SearchEngine/SearchInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SearchEngine/SearchRealisation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2052#2053#0" expanded="false" />
+            <element signature="e#2079#2080#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

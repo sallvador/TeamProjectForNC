@@ -1,5 +1,7 @@
 package SearchEngine;
 
+import base.EventsEntity;
+import base.UsersEntity;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -26,7 +28,7 @@ public class SearchRealisation implements SearchInterface {
     }
 
     @Override
-    public List<EventsEntity> getFutureEvents() {
+    public List<EventsEntity> getFutureEvents(int lastEventNumber) {
         List<EventsEntity> events = null;
         SessionFactory sessionFactory = HiberSF.getSessionFactory();
         Session session = sessionFactory.openSession();
@@ -37,6 +39,7 @@ public class SearchRealisation implements SearchInterface {
         sessionFactory.close();
         return events;
     }
+
 
     @Override
     public List<EventsEntity> getUsersEvents(UsersEntity user) {
@@ -54,5 +57,11 @@ public class SearchRealisation implements SearchInterface {
     @Override
     public List<EventsEntity> getEventsForSearch(Map<String, String> SearchArguments) {
         return null;
+    }
+
+    @Override
+    public List<EventsEntity> getClosestEvents() {
+        List<EventsEntity> events = null;
+        return events;
     }
 }
