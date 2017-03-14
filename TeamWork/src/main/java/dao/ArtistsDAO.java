@@ -1,6 +1,5 @@
 package dao;
 
-import base.ArtistsEntity;
 import intdao.ArtistsInt;
 import org.hibernate.Session;
 

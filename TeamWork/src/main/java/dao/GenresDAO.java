@@ -1,7 +1,5 @@
 package dao;
 
-import base.EventsEntity;
-import base.GenresEntity;
 import intdao.GenresInt;
 import org.hibernate.Session;
 

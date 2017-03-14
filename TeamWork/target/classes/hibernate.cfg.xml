@@ -6,15 +6,33 @@
 <hibernate-configuration>
     <session-factory>
         <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
-        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/postgres</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/PostgreSQL</property>
         <property name="hibernate.hbm2ddl.auto">update</property>
-
         <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
         <property name="hibernate.current_session_context_class">thread</property>
         <property name="hibernate.connection.username">postgres</property>
-        <property name="hibernate.connection.password">Stalin36413169</property>
+        <property name="hibernate.connection.password">crea1323tive</property>
+        <property name="show_sql">true</property>
 
 
+        <mapping class="base.ArtistsEntity"/>
+        <mapping resource="ArtistsEntity.hbm.xml"/>
+        <mapping resource="EventsEntity.hbm.xml"/>
+        <mapping class="base.EventsEntity"/>
+        <mapping resource="GenresEntity.hbm.xml"/>
+        <mapping class="base.GenresEntity"/>
+        <mapping class="base.HistoryEntity"/>
+        <mapping resource="HistoryEntity.hbm.xml"/>
+        <mapping resource="PlacesEntity.hbm.xml"/>
+        <mapping class="base.PlacesEntity"/>
+        <mapping class="base.PricesEntity"/>
+        <mapping resource="PricesEntity.hbm.xml"/>
+        <mapping class="base.SelectionsEntity"/>
+        <mapping resource="SectionsEntity.hbm.xml"/>
+        <mapping class="base.StylesEntity"/>
+        <mapping resource="StylesEntity.hbm.xml"/>
+        <mapping class="base.UsersEntity"/>
+        <mapping resource="UsersEntity.hbm.xml"/>
 
 
     </session-factory>

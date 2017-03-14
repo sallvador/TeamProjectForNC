@@ -11,8 +11,8 @@
     <schema id="3" parent="1" name="public">
       <object-id>2200</object-id>
       <visible>1</visible>
-      <introspection-state-number>1106</introspection-state-number>
-      <introspection-timestamp>2017-02-27.23:39:05.380</introspection-timestamp>
+      <introspection-state-number>1109</introspection-state-number>
+      <introspection-timestamp>2017-03-06.22:31:39.246</introspection-timestamp>
     </schema>
     <schema id="4" parent="1" name="pg_catalog">
       <object-id>11</object-id>
@@ -110,9 +110,9 @@
       <object-id>24617</object-id>
       <state-number>697</state-number>
     </table>
-    <table id="27" parent="3" name="Selections">
+    <table id="27" parent="3" name="Sections">
       <object-id>188502</object-id>
-      <state-number>1104</state-number>
+      <state-number>1109</state-number>
     </table>
     <table id="28" parent="3" name="Styles">
       <object-id>188436</object-id>
@@ -783,8 +783,8 @@
       <state-number>697</state-number>
       <data-type>integer|0</data-type>
     </column>
-    <column id="153" parent="27" name="selection_id">
-      <state-number>1104</state-number>
+    <column id="153" parent="27" name="section_id">
+      <state-number>1109</state-number>
       <mandatory>1</mandatory>
       <data-type>integer|0</data-type>
     </column>
@@ -793,70 +793,88 @@
       <mandatory>1</mandatory>
       <data-type>integer|0</data-type>
     </column>
-    <index id="155" parent="27" name="selections_pk">
-      <object-id>188505</object-id>
-      <columns>selection_id</columns>
+    <index id="155" parent="27" name="section_pk">
+      <object-id>196610</object-id>
+      <columns>section_id</columns>
       <desc-columns></desc-columns>
       <unique>1</unique>
     </index>
-    <key id="156" parent="27" name="selections_pk">
-      <object-id>188506</object-id>
-      <columns>selection_id</columns>
-      <underlying-index>selections_pk</underlying-index>
+    <index id="156" parent="27" name="selections_pk">
+      <object-id>188505</object-id>
+      <columns>section_id</columns>
+      <desc-columns></desc-columns>
+      <unique>1</unique>
+    </index>
+    <key id="157" parent="27" name="section_pk">
+      <object-id>196611</object-id>
+      <columns>section_id</columns>
+      <underlying-index>section_pk</underlying-index>
       <primary>1</primary>
     </key>
-    <column id="157" parent="28" name="priority">
+    <column id="158" parent="28" name="priority">
       <state-number>1092</state-number>
       <mandatory>1</mandatory>
       <data-type>numeric|0</data-type>
     </column>
-    <column id="158" parent="28" name="artist_id">
+    <column id="159" parent="28" name="artist_id">
       <state-number>1095</state-number>
       <mandatory>1</mandatory>
       <data-type>integer|0</data-type>
     </column>
-    <column id="159" parent="28" name="unit_id">
+    <column id="160" parent="28" name="unit_id">
       <state-number>1095</state-number>
       <mandatory>1</mandatory>
       <data-type>integer|0</data-type>
     </column>
-    <column id="160" parent="28" name="genre_id">
+    <column id="161" parent="28" name="genre_id">
       <state-number>1095</state-number>
       <mandatory>1</mandatory>
       <data-type>integer|0</data-type>
     </column>
-    <column id="161" parent="29" name="user_id">
+    <index id="162" parent="28" name="styles_pk">
+      <object-id>196608</object-id>
+      <columns>?</columns>
+      <desc-columns></desc-columns>
+      <unique>1</unique>
+    </index>
+    <key id="163" parent="28" name="styles_pk">
+      <object-id>196609</object-id>
+      <columns>?</columns>
+      <underlying-index>styles_pk</underlying-index>
+      <primary>1</primary>
+    </key>
+    <column id="164" parent="29" name="user_id">
       <state-number>1094</state-number>
       <mandatory>1</mandatory>
       <data-type>integer|0</data-type>
     </column>
-    <column id="162" parent="29" name="login">
+    <column id="165" parent="29" name="login">
       <state-number>1090</state-number>
       <mandatory>1</mandatory>
       <data-type>varchar|0</data-type>
     </column>
-    <column id="163" parent="29" name="category">
+    <column id="166" parent="29" name="category">
       <state-number>1090</state-number>
       <mandatory>1</mandatory>
       <data-type>varchar|0</data-type>
     </column>
-    <column id="164" parent="29" name="email">
+    <column id="167" parent="29" name="email">
       <state-number>1090</state-number>
       <mandatory>1</mandatory>
       <data-type>varchar|0</data-type>
     </column>
-    <column id="165" parent="29" name="password">
+    <column id="168" parent="29" name="password">
       <state-number>1090</state-number>
       <mandatory>1</mandatory>
       <data-type>varchar|0</data-type>
     </column>
-    <index id="166" parent="29" name="user_pk">
+    <index id="169" parent="29" name="user_pk">
       <object-id>188455</object-id>
       <columns>user_id</columns>
       <desc-columns></desc-columns>
       <unique>1</unique>
     </index>
-    <key id="167" parent="29" name="user_pk">
+    <key id="170" parent="29" name="user_pk">
       <object-id>188456</object-id>
       <columns>user_id</columns>
       <underlying-index>user_pk</underlying-index>

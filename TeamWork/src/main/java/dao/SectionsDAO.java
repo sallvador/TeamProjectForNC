@@ -1,7 +1,5 @@
 package dao;
 
-import base.PricesEntity;
-import base.SectionsEntity;
 import intdao.SectionsInt;
 import org.hibernate.Session;
 

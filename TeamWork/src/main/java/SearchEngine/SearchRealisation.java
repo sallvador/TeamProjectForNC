@@ -1,18 +1,16 @@
 package SearchEngine;
 
-import base.EventsEntity;
-import base.UsersEntity;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import util.HiberSF;
 
-import java.sql.Date;
-import java.util.Calendar;
 import java.util.List;
 import java.util.Map;
 
-/**
+/*
+
+*
  * Created by demon on 07.03.2017.
  */
 public class SearchRealisation implements SearchInterface {

@@ -1,8 +1,5 @@
 package SearchEngine;
 
-import base.EventsEntity;
-import base.UsersEntity;
-
 import java.util.List;
 import java.util.Map;
 

@@ -1,7 +1,5 @@
 package intdao;
 
-import base.ArtistsEntity;
-import base.EventsEntity;
 import org.hibernate.Session;
 
 /**

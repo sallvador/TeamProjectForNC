@@ -1,6 +1,5 @@
 package intdao;
 
-import base.EventsEntity;
 import org.hibernate.Session;
 
 /**

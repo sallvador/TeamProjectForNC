@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.util.Arrays;
 
 /**
- * Created by Роман on 27.02.2017.
+ * Created by Роман on 13.03.2017.
  */
 @Entity
 @Table(name = "Artists", schema = "public", catalog = "postgres")
@@ -22,7 +22,6 @@ public class ArtistsEntity {
         this.name = name;
     }
 
-    //////////////////////////////////////hthghghhjhjhjhjghjgj
     @Id
     @Column(name = "artist_id", nullable = false)
     public int getArtistId() {

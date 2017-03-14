@@ -1,7 +1,6 @@
 package intdao;
 
 
-import base.GenresEntity;
 import org.hibernate.Session;
 
 /**

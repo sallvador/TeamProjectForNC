@@ -3,13 +3,22 @@ package base;
 import javax.persistence.*;
 
 /**
- * Created by Роман on 06.03.2017.
+ * Created by Роман on 13.03.2017.
  */
 @Entity
 @Table(name = "Sections", schema = "public", catalog = "postgres")
 public class SectionsEntity {
     private int sectionId;
     private int placeId;
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     @Id
     @Column(name = "section_id", nullable = false)

@@ -3,7 +3,7 @@ package base;
 import javax.persistence.*;
 
 /**
- * Created by Роман on 27.02.2017.
+ * Created by Роман on 13.03.2017.
  */
 @Entity
 @Table(name = "History", schema = "public", catalog = "postgres")

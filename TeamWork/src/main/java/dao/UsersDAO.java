@@ -1,7 +1,6 @@
 package dao;
 
 
-import base.UsersEntity;
 import intdao.UsersInt;
 import org.hibernate.Session;
 

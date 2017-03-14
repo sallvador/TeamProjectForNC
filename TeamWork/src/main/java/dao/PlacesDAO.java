@@ -1,7 +1,5 @@
 package dao;
 
-import base.HistoryEntity;
-import base.PlacesEntity;
 import intdao.PlacesInt;
 import org.hibernate.Session;
 

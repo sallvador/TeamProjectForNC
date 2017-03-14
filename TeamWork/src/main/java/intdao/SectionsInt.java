@@ -1,6 +1,5 @@
 package intdao;
 
-import base.SectionsEntity;
 import org.hibernate.Session;
 
 /**

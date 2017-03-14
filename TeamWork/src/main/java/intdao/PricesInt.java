@@ -1,6 +1,5 @@
 package intdao;
 
-import base.PricesEntity;
 import org.hibernate.Session;
 
 /**

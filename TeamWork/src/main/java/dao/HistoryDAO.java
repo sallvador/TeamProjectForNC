@@ -1,7 +1,5 @@
 package dao;
 
-import base.GenresEntity;
-import base.HistoryEntity;
 import intdao.HistoryInt;
 import org.hibernate.Session;
 

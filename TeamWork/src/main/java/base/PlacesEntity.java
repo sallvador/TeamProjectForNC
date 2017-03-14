@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.math.BigInteger;
 
 /**
- * Created by Роман on 27.02.2017.
+ * Created by Роман on 13.03.2017.
  */
 @Entity
 @Table(name = "Places", schema = "public", catalog = "postgres")
@@ -80,7 +80,7 @@ public class PlacesEntity {
 
         return true;
     }
-///////ывывывывывы
+
     @Override
     public int hashCode() {
         int result = placeId;
