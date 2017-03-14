@@ -7,7 +7,7 @@ import javax.persistence.Table;
 import java.math.BigInteger;
 
 /**
- * Created by Роман on 27.02.2017.
+ * Created by Роман on 06.03.2017.
  */
 @Entity
 @Table(name = "Styles", schema = "public", catalog = "postgres")

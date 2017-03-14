@@ -1,0 +1,95 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/resources/HistoryEntity.hbm.xml" timestamp="1488307804114">
+        <mark key="[" line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/PricesEntity.java" timestamp="1488381578329">
+        <mark key="[" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/pro/.gitignore" timestamp="1488391603415">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1488308388218">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/target/.gitignore" timestamp="1488391903999">
+        <mark key="[" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/PricesEntity.java" timestamp="1488306681245">
+        <mark key="[" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/PlacesEntity.java" timestamp="1488307742556">
+        <mark key="[" line="82" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1488308255898">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/resources/ArtistsEntity.hbm.xml" timestamp="1488381591430">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/ArtistsEntity.java" timestamp="1488381567801">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/pom.xml" timestamp="1488381657032">
+        <mark key="[" line="123" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/java/base/HistoryEntity.hbm.xml" timestamp="1488306814139">
+        <mark key="[" line="10" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1489349694560">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TeamWork/src/main/resources/maping.xml" timestamp="1488306944096">
+        <mark key="[" line="6" column="6" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/ArtistsEntity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/TeamProjectForNC/TeamWork/src/main/java/base/ArtistsEntity.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="8">
+        <text />
+      </register>
+      <register name="&quot;" type="8">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
